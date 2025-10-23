@@ -1,0 +1,1 @@
+from .sinh_def import sinh
